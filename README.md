@@ -3,7 +3,7 @@
 
 # About me🌽
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zhangtuo723)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zhaojianpeng1125)
 
 Welcome to my Github page! I am ZhaoJianpeng and I am currently Learning NLP and C++!  
 
