@@ -1,5 +1,5 @@
 # Hi there <img src="assets/wave.gif" width="30px" height="30px" /> This is Jianpeng ！✨ 
-<img align="left" alt="img" src="assets/new.jpg" width="100%" height="auto" />
+<img align="left" alt="img" src="assets/header_1.png" width="100%" height="auto" />
 
 # About me🌽
 
