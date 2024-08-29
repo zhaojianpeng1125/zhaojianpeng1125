@@ -1,5 +1,5 @@
 # Hi there 👋 This is Jianpeng ！✨ 
-<img align="left" alt="img" src="assets/me.jpg" width="100%" height="auto" />
+<img align="left" alt="img" src="assets/new.jpg" width="100%" height="auto" />
 
 # About me🌽
 
